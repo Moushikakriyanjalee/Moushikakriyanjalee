@@ -1,5 +1,3 @@
 # Moushikakriyanjalee
-My personal repository
+This is me
 
-
-Hello
