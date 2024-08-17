@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moushika Kriyanjalee</h1>
-<h3 align="center">Undergraduate at the University of Colombo School of Computing, studying Information Systems. Passionate about project management, business analytics, and web design.I have developed strong skills in IT project management, business analytics, web design, and English. Eager to learn new technologies, solve problems, and collaborate within the IT community.</h3>
+<h3 align="center">BSc(Hons) in Information Systems Undergraduate at the University of Colombo School of Computing. Passionate about project management, business analytics, and web design.I have developed strong skills in IT project management, business analytics, web design, and English. Eager to learn new technologies, solve problems, and collaborate within the IT community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moushikakriyanjalee&label=Profile%20views&color=0e75b6&style=flat" alt="moushikakriyanjalee" /> </p>
 
