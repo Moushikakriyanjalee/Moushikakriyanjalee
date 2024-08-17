@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moushika Kriyanjalee</h1>
-<h3 align="center">BSc(Hons) in Information Systems Undergraduate @ the University of Colombo School of Computing. Passionate about project management, business analytics, and web design.
+<h3 align="center">BSc(Hons) in Information Systems Undergraduate @ the University of Colombo School of Computing. Passionate about project management, business analytics, and web design. </h3>
 
 - 🌱 I’m currently learning **React.js & Node.js**
 - 📫 How to reach me **moushika123kriyanjalee@gmail.com**
