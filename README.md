@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moushikakriyanjalee&label=Profile%20views&color=0e75b6&style=flat" alt="moushikakriyanjalee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moushikakriyanjalee" alt="moushikakriyanjalee" /></a> </p>
-
-- 🔭 I’m currently working on **ProdStudio**
 
 - 📫 How to reach me **moushika123kriyanjalee@gmail.com**
 
